@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="match_parent"
+          android:layout_height="45dp"
+          android:id="@+id/tv_normal"
+          android:background="@android:color/holo_orange_light"
+          android:textColor="@android:color/background_light"
+          android:textSize="16sp"
+          android:padding="5dp"
+          android:text="加载中..."
+          android:gravity="left|center_vertical"
+          >
+
+</TextView>
